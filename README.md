@@ -1,12 +1,13 @@
-## Welcome to 최이지 (EASY)'s Page
+## QC/Web QA팀 최이지
 
-You can use the [editor on GitHub](https://github.com/chldlwl/chldlwl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+이번에 신입사원 과제로 [생활코딩 - 웹 페이지 만들기]를 진행했습니다.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[editor on GitHub](https://github.com/chldlwl/chldlwl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-### Markdown
+### Phone Number
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+010-2086-1486
+(오리역으로 놀러오세요^*^)
 
 ```markdown
 Syntax highlighted code block
