@@ -1,4 +1,4 @@
-## Welcome to EASY's Page
+## Welcome to 최이지 (EASY)'s Page
 
 You can use the [editor on GitHub](https://github.com/chldlwl/chldlwl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
