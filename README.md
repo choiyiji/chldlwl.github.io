@@ -1,17 +1,17 @@
 ## QC/Web QA팀 최이지
 
-이번에 신입사원 과제로 [생활코딩 - 웹 페이지 만들기]를 진행했습니다.  
+이번에 신입사원 과제로 [생활코딩 - 웹 페이지 만들기]를 진행했습니다.
 
-저에 대한 정보는 [이곳에서] 확인하실 수 있습니다.
-(https://github.com/chldlwl/chldlwl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+저에 대한 정보는 [이곳에서](https://github.com/chldlwl/chldlwl.github.io/edit/master/README.md) 확인하실 수 있습니다.
+ to maintain and preview the content for your website in Markdown files.
 
 ### Phone Number
 
 010-2086-1486
 (오리역으로 놀러오세요^*^)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
 
 ```markdown
 Syntax highlighted code block
