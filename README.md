@@ -6,15 +6,18 @@
 <br>
 <br>
 ### 이지에 대해 더 알아보기
-<p>나이: 25살</p>
 <p>휴대폰 번호: 010-2086-1486 (사전 등록 이벤트 테스트 시 마음껏 사용 가능합니다^0^)</p>
-<br>
 거주지: 오리역(Ori Station)<br>
 <img src="practice.PNG" width="90%">
 
 <script>
-var input = prompt("","1~3 사이의 숫자를 입력해주세요")
-  if(input == 1)
-  alert("1을 열심히 하겠습니다.");
-  else if(input ==2)
-  alert("
+var input = prompt("더 알아보도록 하겠습니다.","A~C 사이의 알파벳을 입력해주세요")
+  if(input == 'A')
+    alert("Age: 25");
+  else if(input == 'B')
+    alert("Blood type: A");
+  else if(input == 'C')
+    alert("Company: Nexon Networks");
+  else
+  alert("A~C 사이의 알파벳만 입력 부탁드려요");
+</script>
