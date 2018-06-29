@@ -1,10 +1,9 @@
 ## QC/Web QA팀 최이지
 
-이번에 신입사원 과제로 [생활코딩 - 웹 페이지 만들기]를 진행했습니다.
+<p>이번에 신입사원 과제로 [생활코딩 - 웹 페이지 만들기]를 진행했습니다.</p>
+제가 들었던 강의는 [이곳에서](https://opentutorials.org/course/3084) 확인하실 수 있습니다.
 
 
-저에 대한 정보는 [이곳에서](https://chldlwl.github.io/) 확인하실 수 있습니다.
- to maintain and preview the content for your website in Markdown files.
 
 ### Phone Number
 
