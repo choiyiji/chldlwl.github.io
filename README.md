@@ -3,7 +3,7 @@
 이번에 신입사원 과제로 [생활코딩 - 웹 페이지 만들기]를 진행했습니다.
 
 
-저에 대한 정보는 [이곳에서](https://github.com/chldlwl/chldlwl.github.io/edit/master/README.md) 확인하실 수 있습니다.
+저에 대한 정보는 [이곳에서](https://chldlwl.github.io/) 확인하실 수 있습니다.
  to maintain and preview the content for your website in Markdown files.
 
 ### Phone Number
