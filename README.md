@@ -1,19 +1,158 @@
-## QC/Web QA팀 최이지
-안녕하세요!<br> 
-이번 신입사원 과제로 [생활코딩 - 웹 페이지 만들기]를 진행했습니다.<br>
-<br>
-제가 들었던 강의는 [이곳에서](https://opentutorials.org/course/3084) 확인하실 수 있습니다.<br>
-<br>
-<br>
-## 자세히 알아보기
-1. 이름: 최이지<br>
-2. 나이: 25<br>
-3. 거주지: 오리역(Ori Station)<br>
-<img src="practice.PNG" width="70%"> 
-4. 취미: 테라하기 (예..정..)<br>
-*같이 테라 하실 분을 찾고 있습니다.*
-<br>
-<br>
-## Contact
-010-2086-1486
-(사전 등록 이벤트 테스트 시 마음껏 사용 가능합니다 ^0^)<br>
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>EZ</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<div id="header">
+
+				<div class="top">
+
+					<!-- Logo -->
+						<div id="logo">
+							<span class="image main"><img src="images/main.jpg" alt="" /></span>
+							<h1 id="title">EZ</h1>
+							<p>Nexon Networks</p>
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="#top" id="top-link">Intro</a></li>
+								<li><a href="#portfolio" id="portfolio-link">Portfolio</a></li>
+								<li><a href="#about" id="about-link">About Me</a></li>
+								<li><a href="#contact" id="contact-link">Contact</a></li>
+							</ul>
+						</nav>
+
+				</div>
+
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- Intro -->
+					<section id="top" class="one dark cover">
+						<div class="container">
+
+							<header>
+								<h2 class="alt">Hi! I'm <strong>EZ</strong></header>
+
+							<footer>
+								<a href="#portfolio" class="button">Go to my portfolio</a>
+							</footer>
+
+						</div>
+					</section>
+
+				<!-- Portfolio -->
+					<section id="portfolio" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Portfolio</h2>
+							</header>
+
+							<p>What I worked at Nexon Networks.</p>
+
+							<div class="row">
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="javascript:void(0)" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
+										<header>
+											<h3>pic02</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="javascript:void(0)" class="image fit"><img src="images/pic03.jpg" alt="" /></a>
+										<header>
+											<h3>pic03</h3>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="javascript:void(0)" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
+										<header>
+											<h3>pic04</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="javascript:void(0)" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
+										<header>
+											<h3>pic05</h3>
+										</header>
+									</article>
+								</div>
+								<div class="col-4 col-12-mobile">
+									<article class="item">
+										<a href="javascript:void(0)" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+										<header>
+											<h3>pic06</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="javascript:void(0)" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
+										<header>
+											<h3>pic07</h3>
+										</header>
+									</article>
+								</div>
+							</div>
+
+						</div>
+					</section>
+
+				<!-- About Me -->
+					<section id="about">
+						<div class="container" class="three">
+
+							<header>
+								<h2>About Me</h2>
+							</header>
+
+							<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+
+							<p>I'm 25 years old~</p>
+
+						</div>
+					</section>
+
+				<!-- Contact -->
+					<section id="contact" class="four">
+						<div class="container">
+
+							<header>
+								<h2>Contact</h2>
+							</header>
+
+							<p>Please contact me, if you have any improvements.</p>
+
+							<form method="post" action="#">
+								<div class="row">
+									<div class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Name" /></div>
+									<div class="col-6 col-12-mobile"><input type="text" name="email" placeholder="Email" /></div>
+									<div class="col-12">
+										<textarea name="message" placeholder="Message"></textarea>
+									</div>
+									<div class="col-12">
+										<input type="submit" value="Send Message" />
+									</div>
+								</div>
+							</form>
+
+						</div>
+					</section>
+
+			</div>
+
+
+	</body>
+</html>
